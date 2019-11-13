@@ -15,7 +15,7 @@ $.ajax(settings).done(function(response) {
 });
 
 
-async src="https://cse.google.com/cse.js?cx=001325578064499497546:as7yfkjtdgn"
+async src="https://cse.google.com/cse.js?cx=001325578064499497546:as7yfkjtdgn";
 
       // var settings = {
       //   async: true,

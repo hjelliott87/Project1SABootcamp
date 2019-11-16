@@ -1,17 +1,13 @@
-#container {
-    border: red dotted 1px;
-}
 
 
 
-
-
-.row {
-  padding: 50px;
-  float: left;
+.row{
   
+  padding: 50px;
+display: flex; 
+align-content: end;
   width: 23%;
-  margin: 0 10px;
+  margin: 10px 10px;
   height: 100px;
   border: 3px solid #bdc3c7;
 }
